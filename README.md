@@ -1,4 +1,4 @@
-# Smart-Gloves-Project
+# Smart-Glove-Project
 # ATmega32 all drivers including:
 1-GPIO
 2-ADC
